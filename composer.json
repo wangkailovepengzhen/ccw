@@ -1,0 +1,18 @@
+{
+    "name": "ccw/api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "王凯",
+            "email": "309111320@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ccw\\Api\\": "src"
+        }
+    }
+}
