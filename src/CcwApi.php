@@ -1,5 +1,5 @@
 <?php
-namespace Ccw\Api;
+namespace Ccw;
 
 class CcwApi
 {
